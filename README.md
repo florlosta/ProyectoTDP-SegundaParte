@@ -1,7 +1,9 @@
-BIENVENIDO A PIRATE’S VERTICAL SHOOTER! 
-A continuación, las instrucciones de juego para hacer tu experiencia lo más entretenida posible. 
-•	El jugador se mueve solo de manera horizontal. Para desplazarte utiliza las letras 
-A y D ⬅ ➡
+**_BIENVENIDO A PIRATE’S VERTICAL SHOOTER!_**
+
+_A continuación, las instrucciones de juego para hacer tu experiencia lo más entretenida posible._ 
+
+•	El jugador se mueve solo de manera horizontal. 
+Para desplazarte utiliza las letras A y D ⬅ ➡
 
 •	Para disparar, utiliza la barra espaciadora. 💣 💣
 
@@ -17,5 +19,8 @@ A y D ⬅ ➡
 •	Los niveles cuentan con dos oleadas. Es decir, primero tenes que matar a todos los enemigos de la primera tanda para poder pasar a la segunda. ⚓
 
 •	El nivel 1⃣  tiene dos oleadas de cinco enemigos cada una. Por otro lado, el nivel 2⃣  tiene dos oleadas de siete enemigos cada una. 🍀
+
 Sin más preámbulos me despido.
-MUCHA SUERTE PIRATA, ARRGH! 🏴‍☠️🏴‍☠️
+
+
+**MUCHA SUERTE PIRATA, ARRGH! 🏴‍☠️🏴‍☠️**
